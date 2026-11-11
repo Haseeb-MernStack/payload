@@ -128,7 +128,7 @@
     "ts-essentials": "10.0.3",
     "tsx": "4.21.0",
     "undici": "7.18.2",
-    "uuid": "10.0.0",
+    "uuid": "14.0.0",
     "ws": "^8.16.0"
   },
   "devDependencies": {
@@ -150,7 +150,7 @@
     "rimraf": "6.0.1",
     "rollup": "4.52.3",
     "rollup-plugin-dts": "6.2.3",
-    "sharp": "0.32.6"
+    "sharp": "0.35.5"
   },
   "peerDependencies": {
     "graphql": "^16.8.1"
